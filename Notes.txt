@@ -1,0 +1,47 @@
+﻿-i http://pypi.douban.com/simple --trusted-host pypi.douban.com (pip install)
+pip --default-timeout=1000000 install  
+https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator (juperty extension)
+http://chinainternet.evalueserve.com:8083/proxy.pac  (VPN IE)
+Tableau: TCFD-968F-BC40-F2DC-E72F  
+https://POStest0703.sawtoothsoftware.com/login.html 
+https://classroom.udacity.com/courses/ud617/lessons/306818608/concepts/3092736510923
+C:\Users\Monroe.Yu\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\TempState\Downloads\opencv
+
+Install pytorch （website: https://pytorch.org/get-started/locally/）
+pip install http://download.pytorch.org/whl/cu90/torch-0.4.1-cp37-cp37m-win_amd64.whl 
+pip install torchvision
+
+github upload files
+https://blog.csdn.net/daydayjump/article/details/80850390
+username:monroeyu89@126.com/monroe.yu@evalueserve.com
+password:yml8
+
+person: https://blog.csdn.net/weixin_40592189/article/details/86659114
+python for image: https://blog.csdn.net/LutherK/article/details/8011459
+                  https://blog.csdn.net/cwenge/article/details/80389988
+                  https://www.e-learn.cn/content/python/2811727  --heatmap
+                  https://www.cnblogs.com/lzhu/p/11738920.html   --heatmap
+python for video: https://blog.csdn.net/greatsam/article/details/90672386
+                  github: rocketeers_uhack ----heatmap
+gender: https://blog.csdn.net/syysyf99/article/details/93207020
+        https://blog.csdn.net/john_bh/article/details/80625220
+        https://www.cnblogs.com/pprp/p/9525508.html
+        https://blog.csdn.net/qq_21578849/article/details/84980298
+        https://blog.csdn.net/qq_36302589/article/details/85089465
+        https://blog.csdn.net/syysyf99/article/details/95239872  --batch analysis
+make own dataset:https://blog.csdn.net/qq_36302589/article/details/85089465
+plot avg loss: https://blog.csdn.net/zhangping1987/article/details/83339923
+
+
+
+
+
+
+
+
+
+
+
+
+
+
